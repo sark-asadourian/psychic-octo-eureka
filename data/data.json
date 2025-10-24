@@ -1,0 +1,127 @@
+[
+  {
+    "StudentID": 1,
+    "Name": "Alice Johnson",
+    "WritingTier": "Teir 1"
+  },
+  {
+    "StudentID": 2,
+    "Name": "Bob Smith",
+    "WritingTier": "Tier 2"
+  },
+  {
+    "StudentID": 3,
+    "Name": "Charlie Brown",
+    "WritingTier": "Tier 3"
+  },
+  {
+    "StudentID": 4,
+    "Name": "Diana Prince",
+    "WritingTier": "Tier 1"
+  },
+  {
+    "StudentID": 5,
+    "Name": "Ethan Hunt",
+    "WritingTier": "Tier 2"
+  },
+  {
+    "StudentID": 6,
+    "Name": "Fiona Gallagher",
+    "WritingTier": "Tier 4"
+  },
+  {
+    "StudentID": 7,
+    "Name": "George Costanza",
+    "WritingTier": "Tier 3"
+  },
+  {
+    "StudentID": 8,
+    "Name": "Hannah Montana",
+    "WritingTier": "Tier 1"
+  },
+  {
+    "StudentID": 9,
+    "Name": "Ian Malcolm",
+    "WritingTier": "Tier 2"
+  },
+  {
+    "StudentID": 10,
+    "Name": "Jenna Marbles",
+    "WritingTier": "Tier 4"
+  },
+  {
+    "StudentID": 11,
+    "Name": "Kevin Hart",
+    "WritingTier": "Tier 3"
+  },
+  {
+    "StudentID": 12,
+    "Name": "Luna Lovegood",
+    "WritingTier": "Tier 1"
+  },
+  {
+    "StudentID": 13,
+    "Name": "Michael Scott",
+    "WritingTier": "Tier 2"
+  },
+  {
+    "StudentID": 14,
+    "Name": "Nina Dobrev",
+    "WritingTier": "Tier 4"
+  },
+  {
+    "StudentID": 15,
+    "Name": "Oscar Isaac",
+    "WritingTier": "Tier 3"
+  },
+  {
+    "StudentID": 16,
+    "Name": "Paul Atreides",
+    "WritingTier": "Tier 3"
+  },
+  {
+    "StudentID": 17,
+    "Name": "Quinn Fabray",
+    "WritingTier": "Tier 3"
+  },
+  {
+    "StudentID": 18,
+    "Name": "Rachel Green",
+    "WritingTier": "Tier 3"
+  },
+  {
+    "StudentID": 19,
+    "Name": "Sam Winchester",
+    "WritingTier": "Tier 3"
+  },
+  {
+    "StudentID": 20,
+    "Name": "Tina Cohen-Chang",
+    "WritingTier": "Tier 3"
+  },
+  {
+    "StudentID": 21,
+    "Name": "Uma Thurman",
+    "WritingTier": "Tier 2"
+  },
+  {
+    "StudentID": 22,
+    "Name": "Victor Stone",
+    "WritingTier": "Tier 2"
+  },
+  {
+    "StudentID": 23,
+    "Name": "Wanda Maximoff",
+    "WritingTier": "Tier 2"
+  },
+  {
+    "StudentID": 24,
+    "Name": "Xander Harris",
+    "WritingTier": "Tier 1"
+  },
+  {
+    "StudentID": 25,
+    "Name": "Yara Greyjoy",
+    "WritingTier": "Tier 4"
+  }
+]
